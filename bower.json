@@ -1,0 +1,18 @@
+{
+  "name": "jvectormap202",
+  "version": "2.0.2",
+  "homepage": "https://github.com/bjornd/jvectormap",
+  "authors": [
+    "Igor-Ioriatti <igor.ioriatti@hotmail.com>"
+  ],
+  "description": "A built version of jVectorMap (MIT license), suitable for consumption by bower.",
+  "main": "[\"dist/css/jquery-jvectormap-2.0.1.css\", \"dist/js/jquery-jvectormap-2.0.1.min.js\", \"dist/js/jquery-jvectormap-it-mill-en.js\"]",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "[\"map\"",
+    "\"vector\"]"
+  ],
+  "license": "MIT"
+}
